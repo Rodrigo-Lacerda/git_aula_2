@@ -6,3 +6,5 @@
 06 - salvar as mudanças dos arquivos: git commit -m "nome do commit" 
 07 - olhar as modificações no codigo: git diff
 08 - mostra os commits feitos no projeto: git log
+09 - Mostra o historico de alterações no projeto: git show
+
