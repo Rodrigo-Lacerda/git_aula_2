@@ -1,10 +1,10 @@
 01 - Ver se o Git Está Instalado na maquina: git --version / sudo apt install git
 02 - configurar usuario: git config --global user.name "Seu-Nome"
 03 - configurar email: git config --global user.email "Email"
-04 - git status
+04 - mostra o estado dos arquivos: git status
 05 - monitorar arquivos: git add "nome do arquivo" ( . para monitorar a pasta toda)
 06 - salvar as mudanças dos arquivos: git commit -m "nome do commit" 
 07 - olhar as modificações no codigo: git diff
 08 - mostra os commits feitos no projeto: git log
 09 - Mostra o historico de alterações no projeto: git show
-
+10 - Mandar uma copia para GitHub: git push
