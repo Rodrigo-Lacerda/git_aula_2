@@ -1,0 +1,6 @@
+01 - Ver se o Git Está Instalado na maquina: git --version / sudo apt install git
+02 - configurar usuario: git config --global user.name "Seu-Nome"
+03 - configurar email: git config --global user.email "Email"
+04 - git status
+05 - monitorar arquivos: git add "nome do arquivo"
+06 - 
